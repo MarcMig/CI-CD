@@ -38,7 +38,7 @@ jobs:
         id: stack-builder
         uses: aws-actions/aws-cloudformation-github-deploy@v1
         with:
-          name: HeadyCloud2
+          name: HeadyCloud3
           template: stack.yaml
           no-fail-on-empty-changeset: "1"
 
