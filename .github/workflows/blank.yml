@@ -12,7 +12,7 @@ on:
     branches:
     - master
 
-  # Allows you to run this workflow manually from the Actions tab
+  # Allows you to run this workflow manually from the Actions tab or will it?
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
