@@ -4,4 +4,4 @@ Resources:
   S3B199TU:
     Type: 'AWS::S3::Bucket'
     Properties: 
-      BucketName: 'Buckeroo2.0'
+      BucketName: 'Buckeroo2'
